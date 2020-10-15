@@ -1,0 +1,8 @@
+include/
+azure-pipelines.yml
+__pycache__/
+.idea/
+Scripts/
+Lib/
+pyvenv.cfg
+usuarios.db
