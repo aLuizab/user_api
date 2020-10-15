@@ -2,7 +2,7 @@ FROM python:3.8-alpine
 
 MAINTAINER Ana Luiza
 
-COPY ../../requirements.txt /app/requirements.txt
+COPY requirements.txt /app/requirements.txt
 
 WORKDIR /app
 
